@@ -41,8 +41,8 @@ function Home() {
 									<p
 										style={{
 											lineHeight: 2,
-											fontSize: 20,
-											fontWeight: 700,
+											fontSize: 17,
+											fontWeight: 400,
 										}}
 										className="text--light"
 									>
