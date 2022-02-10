@@ -44,7 +44,7 @@ function Home() {
 											fontSize: 20,
 											fontWeight: 700,
 										}}
-										// className="text--light"
+										className="text--light"
 									>
 										Hello, my name is Okoro Ugochukwu Isaac, a Web Developer,
 										Technical Author and Student currently living in Port
