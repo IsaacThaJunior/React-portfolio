@@ -63,11 +63,7 @@ function Contact() {
 								</div>
 
 								<button className="defaultBtn mt-3">
-									<a href="mailto: officialisaacjunior@gmail.com">
-										{' '}
-										Send Message
-									</a>
-
+									Send Message
 									<i className="fas fa-angle-right"></i>
 								</button>
 							</form>
