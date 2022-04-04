@@ -44,8 +44,8 @@ function About() {
 													className="sectionText--mid textIsWhite text--light mb-0 pt-2 "
 													style={{
 														lineHeight: 1.8,
-                            fontSize: 20,
-                            fontWeight: 700,
+													             fontSize: 20,
+                            fontWeight: 100,
 													}}
 												>
 													Hello, my name is Okoro Ugochukwu Isaac, a Web
@@ -70,7 +70,7 @@ function About() {
 													style={{
 														lineHeight: 1.8,
                             fontSize: 20,
-                            fontWeight: 700,
+                            fontWeight: 100,
 													}}
 												>
 													I enjoy every step of the development process. From
