@@ -236,20 +236,7 @@ function Portfolio() {
 											</div>
 										</div>
 									</div>
-									<div className="col-md-6 mt-4">
-										<div className={`center isClickable ${styles.projectCard}`}>
-											<div>
-												<div className={styles.imgHolder}>
-													<img
-														src="/images/task tracker.png"
-														className="w-100"
-														alt=""
-													/>
-												</div>
-											</div>
-											
-										</div>
-									</div>
+									
 								</div>
 							</div>
 						</div>
