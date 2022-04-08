@@ -247,35 +247,7 @@ function Portfolio() {
 													/>
 												</div>
 											</div>
-											<div className={`center ${styles.projectInfo} `}>
-												<div className="p-4 vAlign">
-													<p className="textIsPink sectionHead--mid">
-														Task Tracker
-													</p>
-													<p className="textIsWhite">
-														A Task tracker built to learn React.
-													</p>
-
-													<a
-														href="https://simple-react-task-tracker.netlify.app/"
-														target="_blank"
-														rel="noreferrer"
-														className="textIsPink textIsBold"
-													>
-														<i className="fas fa-link mx-1"></i>
-														Visit Project
-													</a>
-													<a
-														href="https://github.com/IsaacThaJunior/basic-task-tracker-app"
-														target="_blank"
-														rel="noreferrer"
-														className="textIsPink textIsBold"
-													>
-														<i className="fas fa-link mx-1"></i>
-														Github
-													</a>
-												</div>
-											</div>
+											
 										</div>
 									</div>
 								</div>
